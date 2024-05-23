@@ -4,3 +4,8 @@ pip
 yt-dlp
 colorlog
 cffi --only-binary all; sys_platform == 'win32'
+discord.py==2.1.*
+python-dotenv==0.21.*
+openai==1.2.0
+PyYAML==6.0
+dacite==1.6.*
